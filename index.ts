@@ -1,1 +1,3 @@
 console.assert();
+
+DeviceMotionEvent;
